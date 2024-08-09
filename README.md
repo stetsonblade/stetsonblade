@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @stetsonblade 
 - 👀 I’m interested in writing, coding, and gaming.
-- 🌱 I’m currently learning C# and general programming.
+- 🌱 I’m interested in learning game and general programming.
+- 🌱 I'm starting with Godot.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
